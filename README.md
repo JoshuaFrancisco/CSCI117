@@ -1,2 +1,2 @@
 # CSCI117
-Mozart OZ files
+CSCI 117 using Mozart OZ files
